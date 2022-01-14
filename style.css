@@ -1,0 +1,30 @@
+	.i1     {
+	         height: 4vw;
+		 width: 4vw;
+	 	 border-radius:20%;
+	        }
+
+	.i2      {
+	         height: 4vw;
+		 width: 4vw;
+	 	 border-radius:20%;
+	   	  }
+	   	  
+	#tb0, #tb1, #tb2, #tb3, #tb4, #tb5, #tb6, #tb7, #tb8, #tb9, #tb10, #tb11, #tb12, #tb13, #tb14, #tb15, #tb16, #tb17{	
+	          height: 5vw;
+		  width: 5vw;
+		  padding-bottom:10px;		  
+	         }
+	         
+        #tb18, #tb19, #tb20,#tb21, #tb22, #tb23, #tb24, #tb25, #tb26, #tb27, #tb28, #tb29, #tb30, #tb31{	
+	          height: 5vw;
+		  width: 5vw;
+		  padding-bottom:10px;		  
+	         }	         
+	.row{
+	background-color:#8c8c8c;
+	}
+	
+	#tb0, #tb1, #tb2, #tb3, #sl0, #sl1, #sl2, #sl3{
+	         padding-top: 10px;
+	         }
